@@ -1,0 +1,12 @@
+웹 서버가 존재하기 위해서는 두개의 컴퓨터가 있어야함
+1. Web Browser(정보요청):client   2. Web Server(정보응답):server
+ex. chatting client              ex. chatting server
+
+Web Browser에 주소를 입력함 -> 인터넷을 통해서 index.html의 정보를 원한다고 신호를 보냄
+Web Server에는 주소와 정보가 있음 -> index.html의 정보를 Web Browser에 전달함
+
+서로 정보를 주고받음
+
+server가 되는 방법
+web hosting: 자신의 컴퓨터에 직접 설치
+web server: 다른 웹 호스팅 업체의 도움을 받아서 웹서버 제공
